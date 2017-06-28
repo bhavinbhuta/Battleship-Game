@@ -1,13 +1,4 @@
-/**
- * File: Fleet.java
- * 
- * @version 1.1
- * 
- * @author Sanjay Haresh Khatwani (sxk6714)
- * @author Bhavin Sanjay Bhuta (bsb5375)
- * 
- *         This class builds Fleet by placing each types of ships.
- */
+
 
 public class Fleet {
 	private Ship carrier = new Carrier();
