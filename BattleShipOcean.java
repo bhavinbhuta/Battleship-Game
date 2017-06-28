@@ -1,14 +1,4 @@
-/**
- * File: BattleShipOcean.java
- * 
- * @version 1.1
- * 
- * @author Sanjay Haresh Khatwani (sxk6714)
- * @author Bhavin Sanjay Bhuta (bsb5375)
- * 
- *         This class extends the abstract class Ocean and defines implementation
- *         for the function defined in abstract Ocean class
- */
+
 public class BattleShipOcean extends Ocean{
 	
 	protected String[][] ocean = new String[10][10];
