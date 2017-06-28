@@ -1,16 +1,6 @@
 
 /**
- * File: TheGame.java
- * 
- * @version 1.0
- * 
- * @author Sanjay Haresh Khatwani (sxk6714)
- * @author Bhavin Sanjay Bhuta (bsb5375)
- * 
- * 		This file contains a main method and controls the execution
- * 		it takes users input to shoot, checks if it is a valid point 
- * 		and acoordingly takes actions
- */
+
 import java.util.Scanner;
 
 public class TheGame {
