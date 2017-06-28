@@ -1,16 +1,4 @@
 
-/**
- * File: Player.java
- * 
- * @version 1.0
- * 
- * @author Sanjay Haresh Khatwani (sxk6714)
- * @author Bhavin Sanjay Bhuta (bsb5375)
- * 
- * 		This file checks whether the game is over by checking for all 
- * 		types of ships.
- * 
- */
 import java.util.Scanner;
 
 public abstract class Player {
