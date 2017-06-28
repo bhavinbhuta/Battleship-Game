@@ -1,16 +1,5 @@
 import java.util.Scanner;
 
-/**
- * File: Carrier.java
- * 
- * @version 1.1
- * 
- * @author Sanjay Haresh Khatwani (sxk6714)
- * @author Bhavin Sanjay Bhuta (bsb5375)
- * 
- *        This class implements Ship interface, defines functions 
- *        defined in it and makes validation check for itself.
- */
 
 public class Carrier implements Ship {
 	
