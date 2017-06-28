@@ -1,15 +1,4 @@
-/**
- * File: Constants.java
- * 
- * @version 1.0
- * 
- * @author Sanjay Haresh Khatwani (sxk6714)
- * @author Bhavin Sanjay Bhuta (bsb5375)
- * 
- *         This class basically defines final variables for all the different
- *         elements of the battleship game. The values of these variables can't
- *         be modified.
- */
+
 public class Constants {
 
 	public static final String WATER = "H20";
