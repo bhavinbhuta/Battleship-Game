@@ -1,14 +1,4 @@
-/**
- * File: BattleShipPlayer.java
- * 
- * @version 1.1
- * 
- * @author Sanjay Haresh Khatwani (sxk6714)
- * @author Bhavin Sanjay Bhuta (bsb5375)
- * 
- *         This class extends the abstract class Player and defines implementation
- *         for the function defined in Player abstract class
- */
+
 public class BattleShipPlayer extends Player{
 
 	/**
