@@ -1,16 +1,6 @@
 import java.util.Scanner;
 
-/**
- * File: Cruiser.java
- * 
- * @version 1.1
- * 
- * @author Sanjay Haresh Khatwani (sxk6714)
- * @author Bhavin Sanjay Bhuta (bsb5375)
- * 
- *         This class implements Ship interface, defines functions 
- *         defined in it and makes valdiation check for itself.
- */
+
 public class Cruiser implements Ship {
 	
 	public static int length = 3;
